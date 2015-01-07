@@ -4,7 +4,7 @@ OrengoGroup Coding Guide
 
 This project attempts to provide guidance for people working on shared code within the [Orengo Bioinformatics group at UCL](http://www.ucl.ac.uk/orengo-group).
 
-This project itself is intended to be an evolving set of working documents. If people have ideas / suggestions about how these pages can be improved, please do so in the form of a [pull request](https://help.github.com/articles/using-pull-requests/), [raising an issue](https://guides.github.com/features/issues/), or just telling someone.
+The project itself is intended to be an evolving set of working documents. If people have ideas / suggestions about how these pages can be improved, please do so in the form of a [pull request](https://help.github.com/articles/using-pull-requests/), [raising an issue](https://guides.github.com/features/issues/), or just telling someone.
 
 What this project IS
 --------------------
@@ -33,11 +33,10 @@ What this project IS NOT
 ------------------------
 
 These pages are not meant to represent the perfect way to code. Many coders will be happy to argue about whether to use spaces or tabs for white-space (NB: clearly you should use spaces). Others will debate the merits of 2 spaces over 4 spaces. 
-Some of the guidelines in these pages may be contentious, and others may be unsuitable for other setups. They are tuned
-for coding within the Orengo group.
+Some of the guidelines in these pages may be contentious, and others may be unsuitable for other setups. They are tuned for coding within the Orengo group.
 
-Documents
----------
+Enough already, show me the money
+---------------------------------
 
  * [Coding](best_practices.md)
  * [Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
