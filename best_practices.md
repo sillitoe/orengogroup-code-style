@@ -25,9 +25,5 @@ OrengoGroup Coding Style Guide
 Notes
 =====
 
-There's no single right way to code. However, if you're coding in a shared environment then it
-can be helpful to have an agreed way of doing things. The following list is an attempt at providing 
-a local style guide for shared code in the Orengo Bioinformatics group at UCL.
-
-The original list was taken [from a comment on a discussion about code review](http://www.perlmonks.org/?node_id=989115) and seems a pretty good place to start. This is intended to be an evolving, working document: everyone should feel free to suggest additions, modifications, deletions or simply request clarifications (in the form of pull requests or raising issues on github).
+The original list was taken [from a comment on a discussion about code review](http://www.perlmonks.org/?node_id=989115) and seems a pretty good place to start. This is intended to be an evolving, working document: everyone should feel free to suggest additions, modifications, deletions or simply request clarifications.
 
