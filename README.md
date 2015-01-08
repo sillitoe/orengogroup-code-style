@@ -11,7 +11,7 @@ The project itself is intended to be an evolving set of working documents. If pe
 What this aims to be
 --------------------
 
-The aim here is very much to encourage **contribution**, **consistency** and **new skills** within the group. Those words are pretty self-explanatory, but I'll add some unnecessary pseudo-quotes to try and make the whole thing sound  far more profound than it is:
+The aim here is very much to encourage **contribution**, **consistency** and **new skills** within the group. Those words are pretty self-explanatory, but I'll add some unnecessary pseudo-quotes to make the whole thing sound terribly profound:
 
  * **Contribution** - *No matter what your skills or experience, everyone can contribute something. You just need to know how.* 
   
