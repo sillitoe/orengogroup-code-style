@@ -8,8 +8,8 @@ The project itself is intended to be an evolving set of working documents. If pe
 
  * [Jump straight to the house rules](#house-rules)
 
-What this project IS
---------------------
+What this project aims to be
+----------------------------
 
 The aim here is very much to encourage **contribution**, **consistency** and **new skills** within the group. Those words are pretty self-explanatory, but I'll add some glib pseudo-quotes to make it sound utterly profound:
 
@@ -25,8 +25,8 @@ The aim here is very much to encourage **contribution**, **consistency** and **n
 
   There are loads of different skills and experiences in the lab. Everyone can learn from everyone by sharing best practices, performing group code reviews, etc.
 
-What this project IS NOT
-------------------------
+What this project does not aim to be
+------------------------------------
 
 These pages are not meant to represent the perfect way to code. 
 
