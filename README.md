@@ -20,7 +20,9 @@ FAQ
 Hopefully some of the questions raised in these meetings will get turned into FAQ.
 
 **Q: How do I write good tests?** 
-Try the following article: [Writing Great Unit Tests](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/)
+
+  * [Writing Great Unit Tests: Best and Worst Practices](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/)
+
 
 Code Reviews
 ------------
