@@ -7,7 +7,7 @@ This project attempts to provide guidance for people working on shared code with
 The project itself is intended to be an evolving set of working documents. If people have ideas / suggestions about how these pages can be improved, please do so in the form of a [pull request](https://help.github.com/articles/using-pull-requests/), [raising an issue](https://guides.github.com/features/issues/), or just telling someone.
 
  * [Top 20 Coding Best Practices](coding_best_practices.md)
- * [Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+ * [Suggested Orengo Group Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 Code Reviews
 ------------
