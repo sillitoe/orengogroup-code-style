@@ -6,7 +6,13 @@ This project attempts to provide guidance for people working on shared code with
 
 The project itself is intended to be an evolving set of working documents. If people have ideas / suggestions about how these pages can be improved, please do so in the form of a [pull request](https://help.github.com/articles/using-pull-requests/), [raising an issue](https://guides.github.com/features/issues/), or just telling someone.
 
- * [Jump straight to the house rules](#house-rules)
+ * [On Coding](coding_best_practices.md)
+ * [On Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
+Code Reviews
+------------
+
+ * [Code Review 01: Natalie](https://github.com/nataliedawson/code_to_check)
 
 What this aims to be
 --------------------
@@ -34,10 +40,5 @@ Many excellent coders will be happy to spend an evening arguing about whether to
 
 If people in the group have issues with anything here then we use that as a point of discussion: we discuss why they're there, discuss possible alternatives and make changes if everyone agrees there's a better way of doing it. That's one of the reasons why we chose to host these documents on GitHub.
 
-<a name="house-rules"></a>Enough already, show me the house rules
------------------------------------------------------------------
-
- * [Coding](best_practices.md)
- * [Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 
