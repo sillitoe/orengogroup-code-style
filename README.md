@@ -6,20 +6,29 @@ This project attempts to provide guidance for people working on shared code with
 
 The project itself is intended to be an evolving set of working documents. If people have ideas / suggestions about how these pages can be improved, please do so in the form of a [pull request](https://help.github.com/articles/using-pull-requests/), [raising an issue](https://guides.github.com/features/issues/), or just telling someone.
 
- * [Top 20 Coding Best Practices](coding_best_practices.md)
+House Rules
+-----------
 
-Useful Links
-------------
+General rules we will try and adhere to (where possible).
 
- * [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
- * [Writing Good Tests](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/)
+ * [Coding Best Practices](coding_best_practices.md)
+ * [Workflow - Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
+FAQ
+---
+
+Hopefully some of the questions raised in these meetings will get turned into FAQ.
+
+ * **Q: How do I write good tests?** 
+   * Try: [Writing Great Unit Tests](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/)
 
 Code Reviews
 ------------
 
  * [Code Review 01: Natalie](https://github.com/nataliedawson/code_to_check)
 
-Just going through github changes
+Notes
+=====
 
 What this aims to be
 --------------------
